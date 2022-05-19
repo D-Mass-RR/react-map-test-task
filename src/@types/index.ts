@@ -1,7 +1,7 @@
 export interface IData {
-  id: string;
-  from_lat: string;
-  from_long: string;
-  to_lat: string;
-  to_long: string;
+  id: number;
+  from_lat: number;
+  from_long: number;
+  to_lat: number;
+  to_long: number;
 }
